@@ -1,0 +1,32 @@
+.transaction-history {
+  width: 800px;
+  background-color: #fff;
+  margin-bottom: 60px;
+}
+th {
+  font-size: 14px;
+  line-height: 4;
+  letter-spacing: 0.1em;
+  color: white;
+  text-transform: uppercase;
+  background-color: #0178ff;
+}
+
+.transaction-row {
+  background-color: rgb(240, 240, 240);
+}
+
+td {
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 14px;
+  line-height: 4;
+}
+.transaction-row-dark {
+  background-color: rgb(170, 204, 255);
+}
+.row-caption {
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
